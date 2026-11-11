@@ -287,7 +287,7 @@ export default function Home() {
           )}
 
           <footer className="pt-8 border-t border-slate-400/40 flex flex-col sm:flex-row justify-between items-center text-xs text-slate-200 gap-4">
-            <p>© {new Date().getFullYear()} Zaidan. All rights reserved.</p>
+            <p>© 2026 Zaidan. All rights reserved.</p>
             <div className="flex space-x-6">
               <a href="https://www.roblox.com/users/1566686321/profile" target="_blank" rel="noreferrer" className="hover:text-yellow-200">Roblox</a>
               <a href="https://twitter.com/AprilZondag" target="_blank" rel="noreferrer" className="hover:text-yellow-200">Twitter / X</a>
