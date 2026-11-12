@@ -45,7 +45,7 @@ export default function Home() {
           <div className="absolute inset-0 bg-[#FCF49C] w-72 h-72 md:w-96 md:h-96 -z-10 rounded-md translate-x-4 -translate-y-4" />
           <div className="relative w-72 h-72 md:w-96 md:h-96 bg-slate-200/50 rounded-md overflow-hidden border border-slate-300">
             <Image
-              src="/hero-avatar.png"
+              src="/face-card.jpeg"
               alt="Zaidan Character Illustration"
               fill
               className="object-contain"
